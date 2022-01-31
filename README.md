@@ -19,7 +19,7 @@
 1. Faça um clone do projeto em sua máquina
 2. Inicie com "npm init"
 3. Em seguida, rode "npm start"
-4. Veja a aplicação rodando em uma porta local (Ex: localhhost:3000)
+4. Veja a aplicação rodando em uma porta local (Ex: localhost:3000)
 
 
 
