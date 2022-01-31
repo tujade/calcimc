@@ -6,7 +6,7 @@
 
 ## Template  ✔
 
-<img src="C:\Users\jadem\OneDrive\Área de Trabalho\Home - IMC.png" alt="Home - IMC" style="zoom:33%;" />
+![Home - IMC](https://user-images.githubusercontent.com/86531281/151885175-d5e14f84-da50-4019-a70b-ed5b8907cbb3.png)
 
 ## Techs 👨‍💻
 
