@@ -1,6 +1,6 @@
 # Calculadora de IMC  🧮
 
-- Proejto desenvolvido como estudo de ReactJS. 
+- Projeto desenvolvido como estudo de ReactJS. 
 - Calculadora IMC.
 - Calcule seu IMC e saiba se você está com o peso ideal ou acima do peso/abaixo do peso!
 
